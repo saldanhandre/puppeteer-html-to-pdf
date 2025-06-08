@@ -1,7 +1,7 @@
 {
   "name": "puppeteer-html-to-pdf",
   "version": "1.0.0",
-  "description": "Converts HTML to PDF using Puppeteer",
+  "description": "Convert HTML to PDF using Puppeteer",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
